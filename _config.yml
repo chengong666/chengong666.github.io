@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Solitude #应用主题名字
+theme: solitude #应用主题名字
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
