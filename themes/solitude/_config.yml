@@ -134,12 +134,13 @@ aside:
       #img: /img/avatar.avif # url
       img: /img/tx.jpg # url
       sticker: # url, 24x24 size
+      avatar: /img/tx.jpg
     url: /about/ # link / 点击头像跳转链接
-    background: # https://s3.qjqq.cn/47/663af296b85f4.webp!color # Background image(Invalid if style is 0)
+    background:  https://s3.qjqq.cn/47/663af296b85f4.webp!color # Background image(Invalid if style is 0)
     # Content(Invalid if style is 0)
     # 内容(Style 0 无效)
-    content: # 这是我的博客 / This is my Blog
-    content2: # 一个热爱生活的人 / A person who loves life
+    content:  这是我的博客 / This is my Blog
+    content2:  一个热爱生活的人 / A person who loves life
     # Style 2 is invalid
     # Style 2 无效
     sayhello:
