@@ -131,8 +131,8 @@ aside:
   card:
     style: 0 # 0: default 1: style 1 2: style 2
     author:
-      #img: /img/avatar.avif # url
-      img: /img/tx.jpg # url
+      img: /img/avatar.avif # url
+      #img: /img/tx.jpg # url
       sticker: # url, 24x24 size
     url: /about/ # link / 点击头像跳转链接
     background: # https://s3.qjqq.cn/47/663af296b85f4.webp!color # Background image(Invalid if style is 0)
