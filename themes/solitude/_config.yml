@@ -132,7 +132,7 @@ aside:
     style: 0 # 0: default 1: style 1 2: style 2
     author:
       #img: /img/avatar.avif # url
-      img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.nga.178.com%2Fattachments%2Fmon_202404%2F04%2FjcQaeio-ay5lZdT3cSsg-sg.png&refer=http%3A%2F%2Fimg.nga.178.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1736348480&t=3cd9f09069a85c3e6c7f6d4424e13d1b # url
+      avatar: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.nga.178.com%2Fattachments%2Fmon_202404%2F04%2FjcQaeio-ay5lZdT3cSsg-sg.png&refer=http%3A%2F%2Fimg.nga.178.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1736348480&t=3cd9f09069a85c3e6c7f6d4424e13d1b # url
       sticker: # url, 24x24 size
       #avatar: /img/avatar.jpg
     url: /about/ # link / 点击头像跳转链接
