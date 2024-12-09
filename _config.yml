@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo #网站名字
+title: cgBlog #网站名字
 subtitle: '' #副标题
 description: '' 
 keywords:
-author: John Doe
+author: cg
 language: zh-CN # 语言
 timezone: ''
 
