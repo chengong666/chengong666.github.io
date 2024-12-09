@@ -134,7 +134,7 @@ aside:
       #img: /img/avatar.avif # url
       img: /img/tx.jpg # url
       sticker: # url, 24x24 size
-      avatar: /img/tx.jpg
+      avatar: /img/avatar.jpg
     url: /about/ # link / 点击头像跳转链接
     background:  https://s3.qjqq.cn/47/663af296b85f4.webp!color # Background image(Invalid if style is 0)
     # Content(Invalid if style is 0)
